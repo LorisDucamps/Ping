@@ -14,4 +14,4 @@ Thanks for checking out this front-end coding challenge.
 
 ## Deploying your project
 
-🚀 My project is deployed [here](https://ping-coming-soon-omega.now.sh/)
+🚀 My project is deployed [here](https://ping-umber.vercel.app/)
